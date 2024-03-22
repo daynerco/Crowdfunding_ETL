@@ -8,9 +8,9 @@ Dayna - Campaign
 
 Danielle - Contacts
 
-I worked on the DB mapping   
+Michael worked on the DB mapping   
 https://app.quickdatabasediagrams.com/#/d/TaOfra
-
+Danielle helped to revise it
 
 (Dayna) i started off the schema for the crowdfunding database
 
